@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="bg">src/5797213e00895.jpg</file>
+        <file alias="gamebg">src/timg (1).jpg</file>
+        <file alias="ball">src/ball_cute_favorites_128px_4563_easyicon.net.png</file>
+        <file alias="line">src/timg (2).png</file>
+        <file alias="yellow_block">src/timg (4).png</file>
+        <file alias="key">src/k.png</file>
+        <file alias="green">src/green_block.png</file>
+        <file alias="green1">src/green_block1.png</file>
+        <file alias="green2">src/green_block2.png</file>
+        <file alias="iron">src/iron.png</file>
+        <file alias="iron1">src/iron1.png</file>
+        <file alias="iron2">src/iron2.png</file>
+        <file alias="red">src/red.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file alias="col">src/se_select00.wav</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="stage1">src/stage1</file>
+        <file alias="stage2">src/stage2</file>
+        <file alias="stage3">src/stage3</file>
+        <file alias="stage4">src/stage4</file>
+        <file alias="stage5">src/stage5</file>
+        <file alias="stage6">src/stage6</file>
+        <file alias="stage7">src/stage7</file>
+        <file alias="stage8">src/stage8</file>
+        <file alias="stage9">src/stage9</file>
+        <file alias="stage10">src/stage10</file>
+        <file alias="stage11">src/stage11</file>
+        <file alias="stage12">src/stage12</file>
+    </qresource>
+</RCC>
